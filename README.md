@@ -56,6 +56,53 @@ There is a cron that runs daily and pushes new products to Google Shopping. But 
 
 To track how products in your Google feed are doing you have to add UTM parameters to the product URLs. This way you’ll be able to assess the effectiveness of the product feed and tweak your strategy if required. 
 
+## Demo
+
+Try out our open demo and if you like our extension **please give us some star on Github ★**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        Storefront Demo
+      </td>
+      <td align="center" valign="middle">
+        Admin Panel Demo
+      </td align="center" valign="middle">
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://gsf.demo.magefan.top/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
+            alt="Magneto 2 Google Shopping Feed Storefront Demo"
+            height="220"
+          >
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://gsf.demo.magefan.top/admin/admin/system_config/edit/section/mfgoogleshoppinfeed/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            alt="Magneto 2 Google Shopping Feed Admin Panel Demo"
+            height="220"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://seo.demo.magefan.top/htmlsitemap">
+          view
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://seo.demo.magefan.top/admin/admin/system_config/edit/section/mfhs/">
+          view
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Need More Features?
 Please contact us to get a quote
@@ -67,9 +114,9 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 ## Documentation
 
 **General**
-* [How to install Magento 2 Automatic Related Products Extension](https://magefan.com/magento-2-automatic-related-products/installation)
-* [How to update Magento 2 Automatic Related Products Extension](https://magefan.com/magento-2-automatic-related-products/updating)
-* [How to uninstall Magento 2 Automatic Related Products Extension](https://magefan.com/magento-2-automatic-related-products/uninstalling)
+* [How to install Magento 2 Google Product Feed Extension](https://magefan.com/magento-2-google-shopping-feed-extension/installation)
+* [How to update Magento 2 Google Product Feed Extension](https://magefan.com/magento-2-google-shopping-feed-extension/updating)
+* [How to uninstall Magento 2 Google Product Feed Extension](https://magefan.com/magento-2-google-shopping-feed-extension/uninstalling)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 ### [Magento 2 Admin Panel Extensions](https://magefan.com/magento-2-extensions/admin-extensions)
