@@ -91,12 +91,12 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://seo.demo.magefan.top/htmlsitemap">
+        <a href="https://gsf.demo.magefan.top/">
           view
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://seo.demo.magefan.top/admin/admin/system_config/edit/section/mfhs/">
+        <a href="https://gsf.demo.magefan.top/admin/admin/system_config/edit/section/mfgoogleshoppinfeed/">
           view
         </a>
       </td>
