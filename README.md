@@ -21,9 +21,15 @@ Just map the attributes, set up product filters and configure UTM parameters. Th
   * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
-* Automatic Google Shopping Feed generation
-* An intuitive and straightforward tool 
-* Increased conversion rates and more targeted traffic
+* [Generate Product Feeds Within Minutes](https://github.com/magefan/magento-google-shopping-feed#generate-product-feeds-within-minutes)
+* [Choose What Attributes to Feature in the Feed](https://github.com/magefan/magento-google-shopping-feed#choose-what-attributes-to-feature-in-the-feed)
+* [Add Products to the Feed with Handy Filters](https://github.com/magefan/magento-google-shopping-feed#add-products-to-the-feed-with-handy-filters)
+* [Benefit From the Automated Product Feed Generation](https://github.com/magefan/magento-google-shopping-feed#add-products-to-the-feed-with-handy-filters)
+* [Regenerate Product Feed Manually](https://github.com/magefan/magento-google-shopping-feed#add-products-to-the-feed-with-handy-filters)
+* [Exclude Separate Products and Categories from the Feed](https://github.com/magefan/magento-google-shopping-feed#add-products-to-the-feed-with-handy-filters)
+* [Keep Track of Your Product Feed Performance](https://github.com/magefan/magento-google-shopping-feed#keep-track-of-your-product-feed-performance)
+* [Easily Target Multiple Markets](https://github.com/magefan/magento-google-shopping-feed#easily-target-multiple-markets)
+* [Assign Products to Google Shopping Category](https://github.com/magefan/magento-google-shopping-feed#assign-products-to-google-shopping-category)
 
 ## Features
 ### Generate Product Feeds Within Minutes 
@@ -171,7 +177,7 @@ Try out our open demo and if you like our extension **please give us some star o
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
-[issue tracker](https://github.com/magefan/module-google-product-feed/issues).
+[issue tracker](https://github.com/magefan/magento-google-shopping-feed/issues).
 
 ## Need More Features?
 Please contact us to get a quote
@@ -179,13 +185,6 @@ https://magefan.com/contact
 
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
-
-## Documentation
-
-**General**
-* [How to install Magento 2 Google Product Feed Extension](https://magefan.com/magento-2-google-shopping-feed-extension/installation)
-* [How to update Magento 2 Google Product Feed Extension](https://magefan.com/magento-2-google-shopping-feed-extension/updating)
-* [How to uninstall Magento 2 Google Product Feed Extension](https://magefan.com/magento-2-google-shopping-feed-extension/uninstalling)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 
