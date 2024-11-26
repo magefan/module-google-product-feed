@@ -1,17 +1,21 @@
 # [Magento 2 Google Shopping Feed](https://magefan.com/magento-2-google-shopping-feed-extension) by Magefan
 
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
-
-
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/103e1b2520de2a36a364b0391bff6bdc/i/c/icon-google-shopping-feed.jpg">
 
-[Magento 2 Google Shopping Feed](https://magefan.com/magento-2-google-shopping-feed-extension)  is the ultimate multi-website and multistore solution for moving your products to Google Shopping platforms and promote in search results. This extension enabled you to generate Goog le SHopping feed with no technical skills as all fields are already mapped. 
+[Magento 2 Google Shopping Feed](https://magefan.com/magento-2-google-shopping-feed-extension)  is the ultimate multi-website and multistore solution for promoting your products on Google Shopping platforms. This extension allows you to generate a Google Shopping feed without technical skills and overwhelming documentation reviews.
 
-You just have to filter what products you’d like to promote and configure UTM parameters to track product feed sales. 
+Just map the attributes, set up product filters and configure UTM parameters. The Magento Google Shopping Feed does the rest!
 
-<a href="https://magefan.com/magento-2-google-shopping-feed-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-google-shopping-feed-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+<a href="https://magefan.com/magento-2-google-shopping-feed-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1878#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png">
+
+## Useful Links
+  * [User Guide](https://magefan.com/magento-2-google-shopping-feed-extension/documentation)
+  * [Change Log](https://magefan.com/magento-2-google-shopping-feed-extension/change-log)
+  * [FAQs](https://magefan.com/magento-2-google-shopping-feed-extension#pattr-faq)
+
+<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
 
 ## Requirements
   * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
@@ -22,39 +26,99 @@ You just have to filter what products you’d like to promote and configure UTM 
 * Increased conversion rates and more targeted traffic
 
 ## Features
-### Fast Google Shopping Feed Generation
+### Generate Product Feeds Within Minutes 
 
-Our Magento 2 Google Shopping Feed Extension reduces manual feed management and helps you to import products to the Google distribution channel significantly faster. You don’t have to move products one by one or create new items in Google Shopping from scratch. Generate Google Product Feed in Magento automatically and drive more sales with little effort.
+The Magento Google Shopping Feed Extension reduces manual feed management to a few simple steps. It helps you import products to Google Merchant Center faster and keep them up to date.
 
-<p align="center">
-  <img width="853" height="425" src="https://cm.magefan.com/catalog/google-shopping-feed.png">
-</p>
-
-### Easy Field Mapping
-
-To move products to Google Merchant Center you have to map product attributes to they are displayed in the feed accordingly. While the Magefan Google Shopping Feed extension allows you to add multiple product attributes and set your custom values, it already has all of the necessary fields preset. So all you need it set a few other options or extend the attributes list for a more informative and targeted product feed.
-
-### Handy Product Filters
-
-Products you promote with Google SHopping not only have to drive relevant traffic to your website but increase conversion rates. So it might not be relevant to add out-of-stock or free products to the feed. That’s why the Google Product feed module has filters that help you remove out-of-stock, free, disabled, and only visible products from the feed.
+Forget about spending countless hours doing everything from scratch. This tool can boost your efforts like never before!
 
 <p align="center">
-  <img width="853" height="425" src="https://cm.magefan.com/catalog/filter-products-in-google-product-feed.png">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-google-shopping-feed.png">
 </p>
 
-### Manual and Automatic Feed Updating
+### Choose What Attributes to Feature in the Feed
 
-The best thing about Magento 2 Google Shopping Extension is it reduces the manual work to the minimum. Once you configure your product feed and set the filters and UTMs, you don’t have to do much. 
+There’s a set of attributes Google requires to display your products properly in the shopping feed. However, mapping all of them manually doesn’t look very entertaining.
 
-There is a cron that runs daily and pushes new products to Google Shopping. But except for the automatic updating, there is an option to regenerate the feed automatically.
+Thus, this Magento Google Shopping Feed comes with preset attribute mapping. You can leave it as is, without changing anything. Or you can map Google and Magento attributes and add your custom values.
+
+You have full control over your feed and can tailor it to your sales strategy.
 
 <p align="center">
-  <img width="853" height="425" src="https://cm.magefan.com/catalog/generate-product-feed-in-magento-2.png">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/map-product-attributes-between-magento-and-google-merchant.png">
 </p>
 
-### Google Analytics Integration
+### Add Products to the Feed with Handy Filters
 
-To track how products in your Google feed are doing you have to add UTM parameters to the product URLs. This way you’ll be able to assess the effectiveness of the product feed and tweak your strategy if required. 
+You have to promote relevant products to increase traffic to your website and sales. Just imagine the disappointment of a customer who saw your product but it turned out to be out-of-stock.  
+
+To avoid such cases, the Magento Google Product Feed module comes with product filters. They help you define whether to include free, configurable, and out-of-stock items to the feed. So, you select only relevant products.
+
+The best part: you don’t have to monitor this yourself. The extension will keep the products updated as per your settings.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/product-feed-filter-magento-2.png">
+</p>
+
+### Benefit From the Automated Product Feed Generation
+
+Inventory is an active mechanism with some items running out of stock and others appearing in the catalog. It makes it difficult to keep the product feed updated. Especially if you don’t have any tools to help you out.
+
+The Magento 2 Google Shopping Feed extension has this fully covered. The crons run every day to fetch all product changes and display them in the feed. So, you don’t have to do anything manually.
+
+Besides, if you upload the feed to the Google Merchant Center and set up the scheduled fetch, you’ll fully automate the process and will always feature relevant items.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/generate-google-shopping-feed-in-magento-2.png">
+</p>
+
+### Regenerate Product Feed Manually
+
+Automatic product feed generation is a true time-saver. However, sometimes you may need to update a feed at once without waiting for the crons to do so. Is that even possible?
+
+It certainly is if you have the Magento 2 Google Shopping Feed Extension. One button is all it takes to regenerate the feed. If you have a large catalog, you can regenerate the product feed asynchronously to avoid the server overload.
+
+Besides, the extension shows the last update date for each product feed. 
+
+### Exclude Separate Products and Categories from the Feed
+
+Filters cover a great deal of items that share specific characteristics. Yet, there may be some separate products that you don't want to add to the product feed.
+
+With the Magento Google Shopping Feed Generator, you can exclude product and category pages from the shopping feed individually. Is there an item you aren’t ready to promote? Just tweak one option and exclude it from the feed. Nothing technical at all!  
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/exclude-products-from-product-feed-magento.png">
+</p>
+
+### Keep Track of Your Product Feed Performance
+
+You have to add UTM parameters to the product URLs to track their performance in Google Shopping. The Magento Google Shopping Feed extension allows you to do that, too.
+
+Just fill out a few fields in the extension configuration and collect valuable data about your product feed. With such details at hand, you’ll see how effective your strategy is and whether or not it has to be altered. 
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/track-google-shopping-sales-magento.png">
+</p>
+
+### Easily Target Multiple Markets
+
+One of the best things about eCommerce is that it has no boundaries as such. You may be located in one country but sell in a foreign market. The same goes for promotion but you need to do it right.
+
+This advanced Magento Google Shopping Feed generates separate product feeds for each of your storeviews. It takes care of the currency, too, and allows you to use either default or store-specific currency. 
+
+So, you can target various markets and extend your reach beyond domestic sales. 
+
+### Assign Products to Google Shopping Category
+
+Clear categorization matters a lot and Google is not an exception. A great deal of your success depends on assigning your products to the relevant Google categories. 
+
+The Magento Google Shopping Feed simplifies this immensely. It adds an additional field to your products where you can select the proper category. 
+
+You don’t have to keep track of Google updates and taxonomy changes. Just choose the category from the drop-down menu and rest assured it’ll reach the correct destination.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-google-shopping-feed-category.png">
+</p>
 
 ## Demo
 
@@ -82,7 +146,7 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://gsf.demo.magefan.top/admin/admin/system_config/edit/section/mfgoogleshoppinfeed/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magneto 2 Google Shopping Feed Admin Panel Demo"
             height="220"
           >
