@@ -6,6 +6,8 @@
 
 Just map the attributes, set up product filters and configure UTM parameters. The Magento Google Shopping Feed does the rest!
 
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
 <a href="https://magefan.com/magento-2-google-shopping-feed-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1878#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png">
@@ -15,10 +17,7 @@ Just map the attributes, set up product filters and configure UTM parameters. Th
   * [Change Log](https://magefan.com/magento-2-google-shopping-feed-extension/change-log)
   * [FAQs](https://magefan.com/magento-2-google-shopping-feed-extension#pattr-faq)
 
-<a href="https://magefan.com/blog/join-our-donations"><img src="https://cm.magefan.com/wysiwyg/banners/help-ukraine.png"></a>
-
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
 * [Generate Product Feeds Within Minutes](https://github.com/magefan/magento-google-shopping-feed#generate-product-feeds-within-minutes)
